@@ -1,0 +1,206 @@
+{
+  "services": [
+    {
+      "id": "svc-eyebrow",
+      "name": "Eyebrow",
+      "credits": 1,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-upper-lip",
+      "name": "Upper Lip",
+      "credits": 1,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-chin",
+      "name": "Chin",
+      "credits": 1,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-full-face",
+      "name": "Full Face",
+      "credits": 2,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-eyebrow-color",
+      "name": "Eyebrow Color",
+      "credits": 1,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-face-wax",
+      "name": "Face Wax",
+      "credits": 2,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-cleanup",
+      "name": "Cleanup",
+      "credits": 2,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-facial",
+      "name": "Facial",
+      "credits": 3,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-face-bleaching",
+      "name": "Face Bleaching",
+      "credits": 1,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-hair-trimming",
+      "name": "Hair Trimming",
+      "credits": 1,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-manicure",
+      "name": "Manicure",
+      "credits": 1,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-pedicure",
+      "name": "Pedicure",
+      "credits": 2,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-callus-treatment",
+      "name": "Callus Treatment",
+      "credits": 1,
+      "column": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-under-arm-wax",
+      "name": "Under Arm Wax",
+      "credits": 1,
+      "column": 2,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-half-arm-wax",
+      "name": "Half Arm Wax",
+      "credits": 1,
+      "column": 2,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-full-arm-wax",
+      "name": "Full Arm Wax",
+      "credits": 2,
+      "column": 2,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-half-leg-wax",
+      "name": "Half Leg Wax",
+      "credits": 1,
+      "column": 2,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-full-legs-wax",
+      "name": "Full Legs Wax",
+      "credits": 2,
+      "column": 2,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-hot-oil-treatment",
+      "name": "Hot Oil Treatment",
+      "credits": 3,
+      "column": 2,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-back-massage",
+      "name": "Back Massage",
+      "credits": 3,
+      "duration": "20 min",
+      "column": 2,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-head-massage",
+      "name": "Head Massage",
+      "credits": 2,
+      "duration": "15 min",
+      "column": 2,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "svc-foot-massage",
+      "name": "Foot Massage",
+      "credits": 2,
+      "duration": "15 min",
+      "column": 2,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "packages": [
+    {
+      "id": "pkg-4",
+      "count": 4,
+      "price": 100,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "pkg-7",
+      "count": 7,
+      "price": 150,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "pkg-10",
+      "count": 10,
+      "price": 200,
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    }
+  ]
+}

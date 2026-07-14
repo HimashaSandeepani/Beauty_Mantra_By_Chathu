@@ -1,0 +1,26 @@
+[
+  {
+    "id": "r1",
+    "name": "Aisha K.",
+    "rating": 5,
+    "message": "Beautiful, relaxing space and Chathu is so skilled with facials. My skin has never looked better!",
+    "status": "approved",
+    "createdAt": "2026-05-12T10:00:00.000Z"
+  },
+  {
+    "id": "r2",
+    "name": "Fathima R.",
+    "rating": 5,
+    "message": "Booked the 7-service package before a wedding. Every treatment was thorough and the results lasted for weeks.",
+    "status": "approved",
+    "createdAt": "2026-06-02T14:30:00.000Z"
+  },
+  {
+    "id": "r3",
+    "name": "Priya S.",
+    "rating": 4,
+    "message": "Loved the head massage, so relaxing after a long work week. Will be back for the full package next time.",
+    "status": "approved",
+    "createdAt": "2026-06-20T09:15:00.000Z"
+  }
+]
