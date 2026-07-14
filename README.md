@@ -7,14 +7,14 @@ service menu and package pricing.
 
 ## Features
 
-- **Home** — hero, highlights, package preview, gallery teaser, review teaser
-- **Services** — full service menu (from your service card) + 4/7/10-service packages
-- **Gallery** — public grid of photos/videos with filter tabs and a lightbox
-- **Reviews** — visitors can submit a star rating + review (goes in as "pending");
+- **Home** - hero, highlights, package preview, gallery teaser, review teaser
+- **Services** - full service menu (from your service card) + 4/7/10-service packages
+- **Gallery** - public grid of photos/videos with filter tabs and a lightbox
+- **Reviews** - visitors can submit a star rating + review (goes in as "pending");
   only "approved" reviews show publicly
-- **WhatsApp booking** — a floating button and buttons throughout the site open
-  WhatsApp with a pre-filled message to +971 52 742 2431
-- **Admin dashboard** (`/admin`) —
+- **WhatsApp booking** - a floating button and buttons throughout the site open
+  WhatsApp with a pre-filled messages
+- **Admin dashboard** (`/admin`) -
   - Log in with a password
   - **Reviews tab**: approve, unapprove, or delete any review
   - **Gallery tab**: add photos/videos (file upload or a URL), delete items
