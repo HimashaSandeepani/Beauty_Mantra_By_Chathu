@@ -1,7 +1,4 @@
 # Beauty_Mantra_By_Chathu
-A salon website that can add reviews, view gallery, view services and get appointment via whatsapp.
-
-# Beauty Mantra by Chathu — Salon Website
 
 A Next.js (App Router) website for Beauty Mantra by Chathu, styled with Bootstrap 5.
 Includes a public site (home, services, gallery, reviews) and a password-protected
